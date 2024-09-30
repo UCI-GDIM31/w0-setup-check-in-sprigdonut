@@ -6,17 +6,21 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+I'm Kevin, and I go by he/him. I love the worldbuilding and enviornment design in video games. I play mainly story rpgs, pokemon games, and sandbox in the form of Minecraft. I'm relatively experienced with unity 2d and c#, and hope to improve on building 3d games.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [O] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+I hope to reinforce my existing knowledge and be pushed to build complete projects.
+
 4. What, if anything, are you nervous about for this class?
+n/a
 
 ## Prior Experience
 
@@ -25,10 +29,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+C#, python, java, javascript (vuejs), front end web dev
 
 2. Game development (any engine)
+unity2d
 
 3. Unity
+unity2d
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +47,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+n/a
 
 2. Scope management
+    Maintinating a reasonable goal as to the expectations for the end result to ensure the project is completed in a reasonable time and can be built with the current knowledge.
 
 3. Iteration
+    An version of a game/program
 
 4. Object-Oriented programming
+    where code is attatched to game objects
 
 5. Model-View-Controller architecture
+    a game where the player character, camera, and enviornment are separate?
 
 ## Complete!
 
